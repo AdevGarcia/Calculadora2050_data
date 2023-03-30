@@ -1,0 +1,23 @@
+{
+    "uso_combustible_aviacion_internacional": [
+      {
+        "topic": "uso_combustible_aviacion_internacional",
+        "valor": 4.2,
+        "unidad": "TWh"
+      }
+    ],
+    "combustible_despegue_aterrizaje": [
+      {
+        "topic": "combustible_despegue_aterrizaje",
+        "y2018": 6.96,
+        "y2020": 6.96,
+        "y2025": 6.96,
+        "y2030": 6.96,
+        "y2035": 6.96,
+        "y2040": 6.96,
+        "y2045": 6.96,
+        "y2050": 6.96,
+        "unidad": "%"
+      }
+    ]
+  }

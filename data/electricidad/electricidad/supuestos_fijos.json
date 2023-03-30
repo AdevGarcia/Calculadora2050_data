@@ -1,0 +1,391 @@
+{
+    "horas_operacion": [
+      {
+        "topic": "horas_operacion",
+        "valor": 8760,
+        "unidad": "h"
+      }
+    ],
+    "factor_carga": [
+      {
+        "topic": "factor_carga",
+        "tipo": "combustibles_fosiles",
+        "tecnologia": "termoelectrica_gas_natural",
+        "y2018": 62,
+        "y2020": 62,
+        "y2025": 62,
+        "y2030": 62,
+        "y2035": 62,
+        "y2040": 62,
+        "y2045": 62,
+        "y2050": 62,
+        "unidad": "%"
+      },
+      {
+        "topic": "factor_carga",
+        "tipo": "combustibles_fosiles",
+        "tecnologia": "termoelectrica_carbon",
+        "y2018": 40,
+        "y2020": 40,
+        "y2025": 40,
+        "y2030": 40,
+        "y2035": 40,
+        "y2040": 40,
+        "y2045": 40,
+        "y2050": 40,
+        "unidad": "%"
+      },
+      {
+        "topic": "factor_carga",
+        "tipo": "combustibles_fosiles",
+        "tecnologia": "diesel",
+        "y2018": 4,
+        "y2020": 4,
+        "y2025": 4,
+        "y2030": 4,
+        "y2035": 4,
+        "y2040": 4,
+        "y2045": 4,
+        "y2050": 4,
+        "unidad": "%"
+      },
+      {
+        "topic": "factor_carga",
+        "tipo": "combustibles_fosiles",
+        "tecnologia": "fuel_oil",
+        "y2018": 24,
+        "y2020": 24,
+        "y2025": 24,
+        "y2030": 24,
+        "y2035": 24,
+        "y2040": 24,
+        "y2045": 24,
+        "y2050": 24,
+        "unidad": "%"
+      },
+      {
+        "topic": "factor_carga",
+        "tipo": "combustibles_fosiles",
+        "tecnologia": "petroleo",
+        "y2018": 4,
+        "y2020": 4,
+        "y2025": 4,
+        "y2030": 4,
+        "y2035": 4,
+        "y2040": 4,
+        "y2045": 4,
+        "y2050": 4,
+        "unidad": "%"
+      },
+      {
+        "topic": "factor_carga",
+        "tipo": "combustibles_fosiles",
+        "tecnologia": "glp",
+        "y2018": 4,
+        "y2020": 4,
+        "y2025": 4,
+        "y2030": 4,
+        "y2035": 4,
+        "y2040": 4,
+        "y2045": 4,
+        "y2050": 4,
+        "unidad": "%"
+      },
+      {
+        "topic": "factor_carga",
+        "tipo": "combustibles_fosiles",
+        "tecnologia": "termoelectrica_gas_natural_ccus",
+        "y2018": 1,
+        "y2020": 1,
+        "y2025": 1,
+        "y2030": 1,
+        "y2035": 1,
+        "y2040": 1,
+        "y2045": 1,
+        "y2050": 1,
+        "unidad": "%"
+      },
+      {
+        "topic": "factor_carga",
+        "tipo": "combustibles_fosiles",
+        "tecnologia": "termoelectrica_carbon_ccus",
+        "y2018": 1,
+        "y2020": 1,
+        "y2025": 1,
+        "y2030": 1,
+        "y2035": 1,
+        "y2040": 1,
+        "y2045": 1,
+        "y2050": 1,
+        "unidad": "%"
+      },
+      {
+        "topic": "factor_carga",
+        "tipo": "energias_renovables_no_convencionales",
+        "tecnologia": "grandes_centrales_hidroelectricas",
+        "y2018": 54,
+        "y2020": 54,
+        "y2025": 54,
+        "y2030": 54,
+        "y2035": 54,
+        "y2040": 54,
+        "y2045": 54,
+        "y2050": 54,
+        "unidad": "%"
+      },
+      {
+        "topic": "factor_carga",
+        "tipo": "energias_renovables_no_convencionales",
+        "tecnologia": "pequenas_centrales_hidroelectricas",
+        "y2018": 50,
+        "y2020": 50,
+        "y2025": 50,
+        "y2030": 50,
+        "y2035": 50,
+        "y2040": 50,
+        "y2045": 50,
+        "y2050": 50,
+        "unidad": "%"
+      },
+      {
+        "topic": "factor_carga",
+        "tipo": "energias_renovables_no_convencionales",
+        "tecnologia": "solar_termica",
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 0,
+        "y2030": 0,
+        "y2035": 0,
+        "y2040": 0,
+        "y2045": 0,
+        "y2050": 0,
+        "unidad": "%"
+      },
+      {
+        "topic": "factor_carga",
+        "tipo": "energias_renovables_no_convencionales",
+        "tecnologia": "solar_fotovoltaica",
+        "y2018": 20,
+        "y2020": 20,
+        "y2025": 20,
+        "y2030": 20,
+        "y2035": 20,
+        "y2040": 20,
+        "y2045": 20,
+        "y2050": 20,
+        "unidad": "%"
+      },
+      {
+        "topic": "factor_carga",
+        "tipo": "energias_renovables_no_convencionales",
+        "tecnologia": "eolica_costa_adentro_parque_jepi",
+        "y2018": 36,
+        "y2020": 36,
+        "y2025": 36,
+        "y2030": 36,
+        "y2035": 36,
+        "y2040": 36,
+        "y2045": 36,
+        "y2050": 36,
+        "unidad": "%"
+      },
+      {
+        "topic": "factor_carga",
+        "tipo": "energias_renovables_no_convencionales",
+        "tecnologia": "eolica_costa_adentro_resto_pais",
+        "y2018": 45,
+        "y2020": 45,
+        "y2025": 45,
+        "y2030": 45,
+        "y2035": 45,
+        "y2040": 45,
+        "y2045": 45,
+        "y2050": 45,
+        "unidad": "%"
+      },
+      {
+        "topic": "factor_carga",
+        "tipo": "energias_renovables_no_convencionales",
+        "tecnologia": "eolica_costa_afuera",
+        "y2018": 37,
+        "y2020": 37,
+        "y2025": 40,
+        "y2030": 43,
+        "y2035": 45,
+        "y2040": 45,
+        "y2045": 45,
+        "y2050": 45,
+        "unidad": "%"
+      },
+      {
+        "topic": "factor_carga",
+        "tipo": "energias_renovables_no_convencionales",
+        "tecnologia": "hidrogeno_verde",
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 0,
+        "y2030": 0,
+        "y2035": 0,
+        "y2040": 0,
+        "y2045": 0,
+        "y2050": 0,
+        "unidad": "%"
+      },
+      {
+        "topic": "factor_carga",
+        "tipo": "energias_renovables_no_convencionales",
+        "tecnologia": "biomasa",
+        "y2018": 41,
+        "y2020": 41,
+        "y2025": 41,
+        "y2030": 41,
+        "y2035": 41,
+        "y2040": 41,
+        "y2045": 41,
+        "y2050": 41,
+        "unidad": "%"
+      },
+      {
+        "topic": "factor_carga",
+        "tipo": "energias_renovables_no_convencionales",
+        "tecnologia": "bagazo",
+        "y2018": 75,
+        "y2020": 75,
+        "y2025": 75,
+        "y2030": 75,
+        "y2035": 75,
+        "y2040": 75,
+        "y2045": 75,
+        "y2050": 75,
+        "unidad": "%"
+      }
+    ],
+    "vida_util": [
+      {
+        "topic": "vida_util",
+        "tipo": "combustibles_fosiles",
+        "tecnologia": "termoelectrica_gas_natural",
+        "valor": 30,
+        "unidad": "years"
+      },
+      {
+        "topic": "vida_util",
+        "tipo": "combustibles_fosiles",
+        "tecnologia": "termoelectrica_carbon",
+        "valor": 30,
+        "unidad": "years"
+      },
+      {
+        "topic": "vida_util",
+        "tipo": "combustibles_fosiles",
+        "tecnologia": "diesel",
+        "valor": 30,
+        "unidad": "years"
+      },
+      {
+        "topic": "vida_util",
+        "tipo": "combustibles_fosiles",
+        "tecnologia": "fuel_oil",
+        "valor": 25,
+        "unidad": "years"
+      },
+      {
+        "topic": "vida_util",
+        "tipo": "combustibles_fosiles",
+        "tecnologia": "petroleo",
+        "valor": 0,
+        "unidad": "years"
+      },
+      {
+        "topic": "vida_util",
+        "tipo": "combustibles_fosiles",
+        "tecnologia": "glp",
+        "valor": 0,
+        "unidad": "years"
+      },
+      {
+        "topic": "vida_util",
+        "tipo": "combustibles_fosiles",
+        "tecnologia": "termoelectrica_gas_natural_ccus",
+        "valor": 0,
+        "unidad": "years"
+      },
+      {
+        "topic": "vida_util",
+        "tipo": "combustibles_fosiles",
+        "tecnologia": "termoelectrica_carbon_ccus",
+        "valor": 0,
+        "unidad": "years"
+      },
+      {
+        "topic": "vida_util",
+        "tipo": "energias_renovables_no_convencionales",
+        "tecnologia": "grandes_centrales_hidroelectricas",
+        "valor": 50,
+        "unidad": "years"
+      },
+      {
+        "topic": "vida_util",
+        "tipo": "energias_renovables_no_convencionales",
+        "tecnologia": "pequenas_centrales_hidroelectricas",
+        "valor": 50,
+        "unidad": "years"
+      },
+      {
+        "topic": "vida_util",
+        "tipo": "energias_renovables_no_convencionales",
+        "tecnologia": "solar_termica",
+        "valor": 20,
+        "unidad": "years"
+      },
+      {
+        "topic": "vida_util",
+        "tipo": "energias_renovables_no_convencionales",
+        "tecnologia": "solar_fotovoltaica",
+        "valor": 20,
+        "unidad": "years"
+      },
+      {
+        "topic": "vida_util",
+        "tipo": "energias_renovables_no_convencionales",
+        "tecnologia": "eolica_costa_adentro_parque_jepi",
+        "valor": 20,
+        "unidad": "years"
+      },
+      {
+        "topic": "vida_util",
+        "tipo": "energias_renovables_no_convencionales",
+        "tecnologia": "eolica_costa_adentro_resto_pais",
+        "valor": 0,
+        "unidad": "years"
+      },
+      {
+        "topic": "vida_util",
+        "tipo": "energias_renovables_no_convencionales",
+        "tecnologia": "eolica_costa_afuera",
+        "valor": 20,
+        "unidad": "years"
+      },
+      {
+        "topic": "vida_util",
+        "tipo": "energias_renovables_no_convencionales",
+        "tecnologia": "hidrogeno_verde",
+        "valor": 0,
+        "unidad": "years"
+      },
+      {
+        "topic": "vida_util",
+        "tipo": "energias_renovables_no_convencionales",
+        "tecnologia": "biomasa",
+        "valor": 0,
+        "unidad": "years"
+      },
+      {
+        "topic": "vida_util",
+        "tipo": "energias_renovables_no_convencionales",
+        "tecnologia": "bagazo",
+        "valor": 0,
+        "unidad": "years"
+      }
+    ]
+  }

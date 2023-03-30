@@ -1,0 +1,475 @@
+{
+    "area_bosques": [
+      {
+        "topic": "area_bosques",
+        "area": "Amazonía",
+        "valor": 39516141,
+        "unidad": "ha"
+      },
+      {
+        "topic": "area_bosques",
+        "area": "Andina",
+        "valor": 10571676,
+        "unidad": "ha"
+      },
+      {
+        "topic": "area_bosques",
+        "area": "Caribe",
+        "valor": 5392682,
+        "unidad": "ha"
+      },
+      {
+        "topic": "area_bosques",
+        "area": "Pacífico",
+        "valor": 2314215,
+        "unidad": "ha"
+      },
+      {
+        "topic": "area_bosques",
+        "area": "Orinoquía",
+        "valor": 1696636,
+        "unidad": "ha"
+      },
+      {
+        "topic": "area_bosques",
+        "area": "Nacional",
+        "valor": 59491350,
+        "unidad": "ha"
+      }
+    ],
+    "contenido_carbono": [
+    {
+        "topic": "contenido_carbono",
+        "area": "Amazonía",
+        "valor": 124,
+        "unidad": "tC/ha"
+      },
+      {
+        "topic": "contenido_carbono",
+        "area": "Andina",
+        "valor": 120,
+        "unidad": "tC/ha"
+      },
+      {
+        "topic": "contenido_carbono",
+        "area": "Caribe",
+        "valor": 84,
+        "unidad": "tC/ha"
+      },
+      {
+        "topic": "contenido_carbono",
+        "area": "Pacífico",
+        "valor": 123,
+        "unidad": "tC/ha"
+      },
+      {
+        "topic": "contenido_carbono",
+        "area": "Orinoquía",
+        "valor": 98,
+        "unidad": "tC/ha"
+      }
+    ],
+    "fe_deforestacion": [
+      {
+        "topic": "fe_deforestacion",
+        "valor": 3.67,
+        "unidad": "tCO2/tC"
+      }
+    ],
+    "descuentos_captura_cambio_cobertura": [
+      {
+        "topic": "descuentos_captura_cambio_cobertura",
+        "valor": 4071.4,
+        "descuento": 37,
+        "unidad": "Mt CO2e"
+      }
+    ],
+    "desarrollo_reforestacion": [
+      {
+        "topic": "desarrollo_reforestacion",
+        "y2018": 0,
+        "y2020": 231699,
+        "y2025": 1402749.167,
+        "y2030": 2573799.333,
+        "y2035": 3744849.5,
+        "y2040": 4915899.667,
+        "y2045": 6086949.833,
+        "y2050": 7258000,
+        "unidad": "ha"
+      }
+    ],
+    "areas_reforestacion": [
+      {
+        "topic": "areas_reforestacion",
+        "especie": "Eucalipto (Grandis- Globulus)",
+        "reforestacion": "Comercial",
+        "y2018": 14,
+        "y2020": 14,
+        "y2025": 14,
+        "y2030": 14,
+        "y2035": 14,
+        "y2040": 14,
+        "y2045": 14,
+        "y2050": 14,
+        "unidad": "%"
+      },
+      {
+        "topic": "areas_reforestacion",
+        "especie": "Pino (Pátula-Oocarpa-Caribaea)",
+        "reforestacion": "Comercial",
+        "y2018": 14,
+        "y2020": 14,
+        "y2025": 14,
+        "y2030": 14,
+        "y2035": 14,
+        "y2040": 14,
+        "y2045": 14,
+        "y2050": 14,
+        "unidad": "%"
+      },
+      {
+        "topic": "areas_reforestacion",
+        "especie": "Ceiba (Bombacopsis)",
+        "reforestacion": "Comercial",
+        "y2018": 14,
+        "y2020": 14,
+        "y2025": 14,
+        "y2030": 14,
+        "y2035": 14,
+        "y2040": 14,
+        "y2045": 14,
+        "y2050": 14,
+        "unidad": "%"
+      },
+      {
+        "topic": "areas_reforestacion",
+        "especie": "Teca (Tectona grandis)",
+        "reforestacion": "Comercial",
+        "y2018": 14,
+        "y2020": 14,
+        "y2025": 14,
+        "y2030": 14,
+        "y2035": 14,
+        "y2040": 14,
+        "y2045": 14,
+        "y2050": 14,
+        "unidad": "%"
+      },
+      {
+        "topic": "areas_reforestacion",
+        "especie": "Melina (Gmelina arborea)",
+        "reforestacion": "Comercial",
+        "y2018": 14,
+        "y2020": 14,
+        "y2025": 14,
+        "y2030": 14,
+        "y2035": 14,
+        "y2040": 14,
+        "y2045": 14,
+        "y2050": 14,
+        "unidad": "%"
+      },
+      {
+        "topic": "areas_reforestacion",
+        "especie": "Flor Morado (Tabebuia rosea)",
+        "reforestacion": "Comercial",
+        "y2018": 14,
+        "y2020": 14,
+        "y2025": 14,
+        "y2030": 14,
+        "y2035": 14,
+        "y2040": 14,
+        "y2045": 14,
+        "y2050": 14,
+        "unidad": "%"
+      },
+      {
+        "topic": "areas_reforestacion",
+        "especie": "Guadua (Bambusa guadua)",
+        "reforestacion": "Comercial",
+        "y2018": 14,
+        "y2020": 14,
+        "y2025": 14,
+        "y2030": 14,
+        "y2035": 14,
+        "y2040": 14,
+        "y2045": 14,
+        "y2050": 14,
+        "unidad": "%"
+      },{
+        "topic": "areas_reforestacion",
+        "especie": "Hayuelo (Dodonaea viscosa)",
+        "reforestacion": "Protectora",
+        "y2018": 14,
+        "y2020": 14,
+        "y2025": 14,
+        "y2030": 14,
+        "y2035": 14,
+        "y2040": 14,
+        "y2045": 14,
+        "y2050": 14,
+        "unidad": "%"
+      },
+      {
+        "topic": "areas_reforestacion",
+        "especie": "Duraznillo (Abatia parviflora)",
+        "reforestacion": "Protectora",
+        "y2018": 14,
+        "y2020": 14,
+        "y2025": 14,
+        "y2030": 14,
+        "y2035": 14,
+        "y2040": 14,
+        "y2045": 14,
+        "y2050": 14,
+        "unidad": "%"
+      },
+      {
+        "topic": "areas_reforestacion",
+        "especie": "Tibar (Escallonia paniculata)",
+        "reforestacion": "Protectora",
+        "y2018": 14,
+        "y2020": 14,
+        "y2025": 14,
+        "y2030": 14,
+        "y2035": 14,
+        "y2040": 14,
+        "y2045": 14,
+        "y2050": 14,
+        "unidad": "%"
+      },
+      {
+        "topic": "areas_reforestacion",
+        "especie": "Ciro (Baccharis macrantha)",
+        "reforestacion": "Protectora",
+        "y2018": 14,
+        "y2020": 14,
+        "y2025": 14,
+        "y2030": 14,
+        "y2035": 14,
+        "y2040": 14,
+        "y2045": 14,
+        "y2050": 14,
+        "unidad": "%"
+      },
+      {
+        "topic": "areas_reforestacion",
+        "especie": "Roble (Quecus humboldtii)",
+        "reforestacion": "Protectora",
+        "y2018": 14,
+        "y2020": 14,
+        "y2025": 14,
+        "y2030": 14,
+        "y2035": 14,
+        "y2040": 14,
+        "y2045": 14,
+        "y2050": 14,
+        "unidad": "%"
+      }
+    ],
+    "tasa_captura_especie_reforestacion": [
+      {
+        "topic": "tasa_captura_especie_reforestacion",
+        "especie": "Eucalipto (Grandis- Globulus)",
+        "reforestacion": "Comercial",
+        "valor": 0.0000299,
+        "unidad": "MtCO2/ha"
+      },
+      {
+        "topic": "tasa_captura_especie_reforestacion",
+        "especie": "Pino (Pátula-Oocarpa-Caribaea)",
+        "reforestacion": "Comercial",
+        "valor": 0.00001606,
+        "unidad": "MtCO2/ha"
+      },
+      {
+        "topic": "tasa_captura_especie_reforestacion",
+        "especie": "Ceiba (Bombacopsis)",
+        "reforestacion": "Comercial",
+        "valor": 0.00001365,
+        "unidad": "MtCO2/ha"
+      },
+      {
+        "topic": "tasa_captura_especie_reforestacion",
+        "especie": "Teca (Tectona grandis)",
+        "reforestacion": "Comercial",
+        "valor": 0.00003372,
+        "unidad": "MtCO2/ha"
+      },
+      {
+        "topic": "tasa_captura_especie_reforestacion",
+        "especie": "Melina (Gmelina arborea)",
+        "reforestacion": "Comercial",
+        "valor": 0.00002081,
+        "unidad": "MtCO2/ha"
+      },
+      {
+        "topic": "tasa_captura_especie_reforestacion",
+        "especie": "Flor Morado (Tabebuia rosea)",
+        "reforestacion": "Comercial",
+        "valor": 0.00001632,
+        "unidad": "MtCO2/ha"
+      },
+      {
+        "topic": "tasa_captura_especie_reforestacion",
+        "especie": "Guadua (Bambusa guadua)",
+        "reforestacion": "Comercial",
+        "valor": 0.0000543,
+        "unidad": "MtCO2/ha"
+      },
+      {
+        "topic": "tasa_captura_especie_reforestacion",
+        "especie": "Hayuelo (Dodonaea viscosa)",
+        "reforestacion": "Protectora",
+        "valor": 0.0000043743,
+        "unidad": "MtCO2/ha"
+      },
+      {
+        "topic": "tasa_captura_especie_reforestacion",
+        "especie": "Duraznillo (Abatia parviflora)",
+        "reforestacion": "Protectora",
+        "valor": 0.0000029205,
+        "unidad": "MtCO2/ha"
+      },
+      {
+        "topic": "tasa_captura_especie_reforestacion",
+        "especie": "Tibar (Escallonia paniculata)",
+        "reforestacion": "Protectora",
+        "valor": 0.0000015434,
+        "unidad": "MtCO2/ha"
+      },
+      {
+        "topic": "tasa_captura_especie_reforestacion",
+        "especie": "Ciro (Baccharis macrantha)",
+        "reforestacion": "Protectora",
+        "valor": 0.0000010205,
+        "unidad": "MtCO2/ha"
+      },
+      {
+        "topic": "tasa_captura_especie_reforestacion",
+        "especie": "Roble (Quecus humboldtii)",
+        "reforestacion": "Protectora",
+        "valor": 0.000034448,
+        "unidad": "MtCO2/ha"
+      }
+    ],
+    "descuentos_aplicables_reforestacion": [
+      {
+        "topic": "descuentos_aplicables_reforestacion",
+        "especie": "Eucalipto (Grandis- Globulus)",
+        "reforestacion": "Comercial",
+        "aprovechamiento": 20,
+        "permanencia": 30,
+        "descuento": 50,
+        "unidad": "%"
+      },
+      {
+        "topic": "descuentos_aplicables_reforestacion",
+        "especie": "Pino (Pátula-Oocarpa-Caribaea)",
+        "reforestacion": "Comercial",
+        "aprovechamiento": 20,
+        "permanencia": 30,
+        "descuento": 50,
+        "unidad": "%"
+      },
+      {
+        "topic": "descuentos_aplicables_reforestacion",
+        "especie": "Ceiba (Bombacopsis)",
+        "reforestacion": "Comercial",
+        "aprovechamiento": 20,
+        "permanencia": 30,
+        "descuento": 50,
+        "unidad": "%"
+      },
+      {
+        "topic": "descuentos_aplicables_reforestacion",
+        "especie": "Teca (Tectona grandis)",
+        "reforestacion": "Comercial",
+        "aprovechamiento": 20,
+        "permanencia": 30,
+        "descuento": 50,
+        "unidad": "%"
+      },
+      {
+        "topic": "descuentos_aplicables_reforestacion",
+        "especie": "Melina (Gmelina arborea)",
+        "reforestacion": "Comercial",
+        "aprovechamiento": 20,
+        "permanencia": 30,
+        "descuento": 50,
+        "unidad": "%"
+      },
+      {
+        "topic": "descuentos_aplicables_reforestacion",
+        "especie": "Flor Morado (Tabebuia rosea)",
+        "reforestacion": "Comercial",
+        "aprovechamiento": 20,
+        "permanencia": 30,
+        "descuento": 50,
+        "unidad": "%"
+      },
+      {
+        "topic": "descuentos_aplicables_reforestacion",
+        "especie": "Guadua (Bambusa guadua)",
+        "reforestacion": "Comercial",
+        "aprovechamiento": 20,
+        "permanencia": 30,
+        "descuento": 50,
+        "unidad": "%"
+      },
+      {
+        "topic": "descuentos_aplicables_reforestacion",
+        "especie": "Reforestación Protectora",
+        "reforestacion": "Protectora",
+        "aprovechamiento": 10,
+        "permanencia": 20,
+        "descuento": 30,
+        "unidad": "%"
+      },
+      {
+        "topic": "descuentos_aplicables_reforestacion",
+        "especie": "Hayuelo (Dodonaea viscosa)",
+        "reforestacion": "Protectora",
+        "aprovechamiento": 10,
+        "permanencia": 20,
+        "descuento": 30,
+        "unidad": "%"
+      },
+      {
+        "topic": "descuentos_aplicables_reforestacion",
+        "especie": "Duraznillo (Abatia parviflora)",
+        "reforestacion": "Protectora",
+        "aprovechamiento": 10,
+        "permanencia": 20,
+        "descuento": 30,
+        "unidad": "%"
+      },
+      {
+        "topic": "descuentos_aplicables_reforestacion",
+        "especie": "Tibar (Escallonia paniculata)",
+        "reforestacion": "Protectora",
+        "aprovechamiento": 10,
+        "permanencia": 20,
+        "descuento": 30,
+        "unidad": "%"
+      },
+      {
+        "topic": "descuentos_aplicables_reforestacion",
+        "especie": "Ciro (Baccharis macrantha)",
+        "reforestacion": "Protectora",
+        "aprovechamiento": 10,
+        "permanencia": 20,
+        "descuento": 30,
+        "unidad": "%"
+      },
+      {
+        "topic": "descuentos_aplicables_reforestacion",
+        "especie": "Roble (Quecus humboldtii)",
+        "reforestacion": "Protectora",
+        "aprovechamiento": 10,
+        "permanencia": 20,
+        "descuento": 30,
+        "unidad": "%"
+      }
+    ]
+  }

@@ -1,0 +1,80 @@
+{
+    "dbo_agua": [
+      {
+        "topic": "dbo_agua",
+        "residual": "domestica",
+        "tipo": "tratadas",
+        "valor": 0.64,
+        "unidad": "kg/m3"
+      },
+      {
+        "topic": "dbo_agua",
+        "residual": "domestica",
+        "tipo": "no_tratadas",
+        "valor": 0.48,
+        "unidad": "kg/m3"
+      },
+      {
+        "topic": "dbo_agua",
+        "residual": "industrial",
+        "tipo": "tratadas",
+        "valor": 0.64,
+        "unidad": "kg/m3"
+      },
+      {
+        "topic": "dbo_agua",
+        "residual": "industrial",
+        "tipo": "no_tratadas",
+        "valor": 0.48,
+        "unidad": "kg/m3"
+      }
+    ],
+    "generacion_ch4_dbo": [
+      {
+        "topic": "generacion_ch4_dbo",
+        "tipo": "tratadas",
+        "valor": 0.60,
+        "unidad": "kg/kg"
+      },
+      {
+        "topic": "generacion_ch4_dbo",
+        "tipo": "no_tratadas",
+        "valor": 0.06,
+        "unidad": "kg/kg"
+      }
+    ],
+    "generacion_energia_estaciones_tratamiento": [
+      {
+        "topic": "generacion_energia_estaciones_tratamiento",
+        "tipo": "capacidad_generacion",
+        "valor": 1,
+        "unidad": "kwh/m3"
+      },
+      {
+        "topic": "generacion_energia_estaciones_tratamiento",
+        "tipo": "potencial_electrico",
+        "valor": 1,
+        "unidad": "kwh/m3"
+      },
+      {
+        "topic": "generacion_energia_estaciones_tratamiento",
+        "tipo": "eficiencia_motor_generador",
+        "valor": 0,
+        "unidad": "%"
+      }
+    ],
+    "consumo_energetico_medio_tratamiento": [
+      {
+        "topic": "consumo_energetico_medio_tratamiento",
+        "tipo": "tratamiento_aguas_residuales_domesticas",
+        "valor": 0,
+        "unidad": "kwh/m3"
+      },
+      {
+        "topic": "consumo_energetico_medio_tratamiento",
+        "tipo": "tratamiento_aguas_residuales_industriales",
+        "valor": 0,
+        "unidad": "kwh/m3"
+      }
+    ]
+  }

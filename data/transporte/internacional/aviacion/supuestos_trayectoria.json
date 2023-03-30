@@ -1,0 +1,56 @@
+{
+    "uso_combustible_aviacion_internacional": [
+      {
+        "topic": "uso_combustible_aviacion_internacional",
+        "trayectoria": 1,
+        "y2018": 4.35,
+        "y2020": 4.51,
+        "y2025": 4.67,
+        "y2030": 4.82,
+        "y2035": 4.98,
+        "y2040": 5.14,
+        "y2045": 5.30,
+        "y2050": 5.45,
+        "unidad": "TWh"
+      },
+      {
+        "topic": "uso_combustible_aviacion_internacional",
+        "trayectoria": 2,
+        "y2018": 4.30,
+        "y2020": 4.41,
+        "y2025": 4.51,
+        "y2030": 4.61,
+        "y2035": 4.72,
+        "y2040": 4.82,
+        "y2045": 4.93,
+        "y2050": 5.03,
+        "unidad": "TWh"
+      },
+      {
+        "topic": "uso_combustible_aviacion_internacional",
+        "trayectoria": 3,
+        "y2018": 4.35,
+        "y2020": 4.51,
+        "y2025": 4.51,
+        "y2030": 4.51,
+        "y2035": 4.51,
+        "y2040": 4.51,
+        "y2045": 4.51,
+        "y2050": 4.51,
+        "unidad": "TWh"
+      },
+      {
+        "topic": "uso_combustible_aviacion_internacional",
+        "trayectoria": 4,
+        "y2018": 4.35,
+        "y2020": 4.51,
+        "y2025": 4.46,
+        "y2030": 4.41,
+        "y2035": 4.35,
+        "y2040": 4.30,
+        "y2045": 4.25,
+        "y2050": 4.20,
+        "unidad": "TWh"
+      }
+    ]
+  }

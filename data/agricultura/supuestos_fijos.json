@@ -1,0 +1,112 @@
+{
+    "factor_produccion_biocombustibles": [
+        {
+            "topic": "factor_produccion_biocombustibles",
+            "tipo": "Palma de Aceite, biocombustibles",
+            "valor": 3.57,
+            "unidad": "t/ha"
+        },
+        {
+            "topic": "factor_produccion_biocombustibles",
+            "tipo": "Caña de Azúcar, biocombustibles",
+            "valor": 1.65,
+            "unidad": "Mlt/ha"
+        }
+    ],
+    "produccion_biocombustibles": [
+        {
+            "topic": "produccion_biocombustibles",
+            "tipo": "Biodiesel",
+            "valor": 4,
+            "unidad": "TWh"
+        },
+        {
+            "topic": "produccion_biocombustibles",
+            "tipo": "Bioetanol",
+            "valor": 2,
+            "unidad": "TWh"
+        }
+    ],
+    "porcentaje_cultivo_uso_biocombustibles": [
+        {
+            "topic": "porcentaje_cultivo_uso_biocombustibles",
+            "tipo": "Cultivo Palma de Aceite",
+            "valor": 30,
+            "unidad": "%"
+        },
+        {
+            "topic": "porcentaje_cultivo_uso_biocombustibles",
+            "tipo": "Cultivo Caña de Azúcar",
+            "valor": 30,
+            "unidad": "%"
+        }
+    ],
+    "factor_emision_cultivo_uso_biocombustibles": [
+        {
+            "topic": "factor_emision_cultivo_uso_biocombustibles",
+            "tipo": "Palma de Aceite, factor emisión",
+            "valor": 12.2,
+            "unidad": "tCO2/ha"
+        },
+        {
+            "topic": "factor_emision_cultivo_uso_biocombustibles",
+            "tipo": "Caña de Azúcar, factor emisión",
+            "valor": 12.2,
+            "unidad": "tCO2/ha"
+        }
+    ],
+    "linea_base_emisiones_suelos_gestionados": [
+        {
+            "topic": "linea_base_emisiones_suelos_gestionados",
+            "y2018": 44373856.0645822,
+            "y2020": 47568224.9127956,
+            "y2025": 50992548.8120999,
+            "y2030": 54663381.6822319,
+            "y2035": 58598469.1204203,
+            "y2040": 62816834.187428,
+            "y2045": 67338869.3691274,
+            "y2050": 72186435.1581718,
+            "unidad": "tCO2/año"
+        }
+    ],
+    "uso_actual_tierra_sector_agropecuario": [
+        {
+            "topic": "uso_actual_tierra_sector_agropecuario",
+            "tipo": "Agricultura",
+            "valor": 19.3,
+            "unidad": "%"
+        },
+        {
+            "topic": "uso_actual_tierra_sector_agropecuario",
+            "tipo": "Ganadería",
+            "valor": 13.2,
+            "unidad": "%"
+        },
+        {
+            "topic": "uso_actual_tierra_sector_agropecuario",
+            "tipo": "Bosques",
+            "valor": 42.1,
+            "unidad": "%"
+        },
+        {
+            "topic": "uso_actual_tierra_sector_agropecuario",
+            "tipo": "Otros",
+            "valor": 25.4,
+            "unidad": "%"
+        }
+    ],
+    "tasa_crecimiento_pib_sector_agricultura": [
+        {
+            "topic": "tasa_crecimiento_pib_sector_agricultura",
+            "y2018": 3.971994280461,
+            "y2020": 3.84346110036763,
+            "y2025": 3.8391477341601,
+            "y2030": 3.80990504152018,
+            "y2035": 3.50267504468153,
+            "y2040": 3.50267504468153,
+            "y2045": 3.50267504468153,
+            "y2050": 3.50267504468153,
+            "unidad": "%"
+        }
+    ]
+  }

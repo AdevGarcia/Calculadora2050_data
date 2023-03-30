@@ -1,0 +1,56 @@
+{
+    "eficiencia_energ_refinado_crudo": [
+      {
+        "topic": "eficiencia_energ_refinado_crudo",
+        "trayectoria": 1,
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 0,
+        "y2030": 0,
+        "y2035": 0,
+        "y2040": 0,
+        "y2045": 0,
+        "y2050": 0,
+        "unidad": "%"
+      },
+      {
+        "topic": "eficiencia_energ_refinado_crudo",
+        "trayectoria": 2,
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 0,
+        "y2030": 5,
+        "y2035": 5,
+        "y2040": 5,
+        "y2045": 5,
+        "y2050": 5,
+        "unidad": "%"
+      },
+      {
+        "topic": "eficiencia_energ_refinado_crudo",
+        "trayectoria": 3,
+        "y2018": 0,
+        "y2020": 5,
+        "y2025": 5,
+        "y2030": 10,
+        "y2035": 10,
+        "y2040": 10,
+        "y2045": 10,
+        "y2050": 10,
+        "unidad": "%"
+      },
+      {
+        "topic": "eficiencia_energ_refinado_crudo",
+        "trayectoria": 4,
+        "y2018": 0,
+        "y2020": 25,
+        "y2025": 25,
+        "y2030": 25,
+        "y2035": 25,
+        "y2040": 25,
+        "y2045": 25,
+        "y2050": 25,
+        "unidad": "%"
+      }
+    ]
+  }

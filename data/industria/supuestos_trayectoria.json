@@ -1,0 +1,1350 @@
+{
+    "ef_energ_reduc_consumo": [
+      {
+        "topic": "ef_energ_reduc_consumo",
+        "tipo": "cemento",
+        "trayectoria": 1,
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 0,
+        "y2030": 0,
+        "y2035": 0,
+        "y2040": 0,
+        "y2045": 0,
+        "y2050": 0,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_energ_reduc_consumo",
+        "tipo": "cemento",
+        "trayectoria": 2,
+        "y2018": 0,
+        "y2020": 2.13,
+        "y2025": 7.44,
+        "y2030": 12.75,
+        "y2035": 18.06,
+        "y2040": 23.38,
+        "y2045": 28.69,
+        "y2050": 34,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_energ_reduc_consumo",
+        "tipo": "cemento",
+        "trayectoria": 3,
+        "y2018": 0,
+        "y2020": 5.67,
+        "y2025": 19.83,
+        "y2030": 34,
+        "y2035": 35.5,
+        "y2040": 37,
+        "y2045": 38.5,
+        "y2050": 40,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_energ_reduc_consumo",
+        "tipo": "cemento",
+        "trayectoria": 4,
+        "y2018": 0,
+        "y2020": 3.75,
+        "y2025": 13.13,
+        "y2030": 22.5,
+        "y2035": 31.88,
+        "y2040": 41.25,
+        "y2045": 50.63,
+        "y2050": 60,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_energ_reduc_consumo",
+        "tipo": "hierro_no_ferrosos",
+        "trayectoria": 1,
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 0,
+        "y2030": 0,
+        "y2035": 0,
+        "y2040": 0,
+        "y2045": 0,
+        "y2050": 0,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_energ_reduc_consumo",
+        "tipo": "hierro_no_ferrosos",
+        "trayectoria": 2,
+        "y2018": 0,
+        "y2020": 1.75,
+        "y2025": 6.13,
+        "y2030": 10.50,
+        "y2035": 14.88,
+        "y2040": 19.25,
+        "y2045": 23.63,
+        "y2050": 28,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_energ_reduc_consumo",
+        "tipo": "hierro_no_ferrosos",
+        "trayectoria": 3,
+        "y2018": 0,
+        "y2020": 4.67,
+        "y2025": 16.33,
+        "y2030": 28,
+        "y2035": 32,
+        "y2040": 36,
+        "y2045": 40,
+        "y2050": 44,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_energ_reduc_consumo",
+        "tipo": "hierro_no_ferrosos",
+        "trayectoria": 4,
+        "y2018": 0,
+        "y2020": 7.33,
+        "y2025": 25.67,
+        "y2030": 44,
+        "y2035": 62.33,
+        "y2040": 80.67,
+        "y2045": 99,
+        "y2050": 99,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_energ_reduc_consumo",
+        "tipo": "papel",
+        "trayectoria": 1,
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 0,
+        "y2030": 0,
+        "y2035": 0,
+        "y2040": 0,
+        "y2045": 0,
+        "y2050": 0,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_energ_reduc_consumo",
+        "tipo": "papel",
+        "trayectoria": 2,
+        "y2018": 0,
+        "y2020": 0.75,
+        "y2025": 2.63,
+        "y2030": 4.5,
+        "y2035": 6.38,
+        "y2040": 8.25,
+        "y2045": 10.13,
+        "y2050": 12,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_energ_reduc_consumo",
+        "tipo": "papel",
+        "trayectoria": 3,
+        "y2018": 0,
+        "y2020": 2.0,
+        "y2025": 7.0,
+        "y2030": 12.0,
+        "y2035": 14.5,
+        "y2040": 17.0,
+        "y2045": 19.5,
+        "y2050": 22.0,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_energ_reduc_consumo",
+        "tipo": "papel",
+        "trayectoria": 4,
+        "y2018": 0,
+        "y2020": 3.67,
+        "y2025": 12.83,
+        "y2030": 22.0,
+        "y2035": 31.17,
+        "y2040": 40.33,
+        "y2045": 49.5,
+        "y2050": 58.67,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_energ_reduc_consumo",
+        "tipo": "quimicos",
+        "trayectoria": 1,
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 0,
+        "y2030": 0,
+        "y2035": 0,
+        "y2040": 0,
+        "y2045": 0,
+        "y2050": 0,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_energ_reduc_consumo",
+        "tipo": "quimicos",
+        "trayectoria": 2,
+        "y2018": 0,
+        "y2020": 2.13,
+        "y2025": 7.44,
+        "y2030": 12.75,
+        "y2035": 18.06,
+        "y2040": 23.38,
+        "y2045": 28.69,
+        "y2050": 34.0,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_energ_reduc_consumo",
+        "tipo": "quimicos",
+        "trayectoria": 3,
+        "y2018": 0,
+        "y2020": 2.2,
+        "y2025": 7.71,
+        "y2030": 13.22,
+        "y2035": 18.73,
+        "y2040": 24.24,
+        "y2045": 29.74,
+        "y2050": 35.25,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_energ_reduc_consumo",
+        "tipo": "quimicos",
+        "trayectoria": 4,
+        "y2018": 0,
+        "y2020": 5.88,
+        "y2025": 20.56,
+        "y2030": 35.25,
+        "y2035": 49.94,
+        "y2040": 64.63,
+        "y2045": 79.32,
+        "y2050": 94.01,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_energ_reduc_consumo",
+        "tipo": "alimentos_bebidas",
+        "trayectoria": 1,
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 0,
+        "y2030": 0,
+        "y2035": 0,
+        "y2040": 0,
+        "y2045": 0,
+        "y2050": 0,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_energ_reduc_consumo",
+        "tipo": "alimentos_bebidas",
+        "trayectoria": 2,
+        "y2018": 0,
+        "y2020": 1.0,
+        "y2025": 3.5,
+        "y2030": 6.0,
+        "y2035": 8.5,
+        "y2040": 11.0,
+        "y2045": 13.5,
+        "y2050": 16.0,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_energ_reduc_consumo",
+        "tipo": "alimentos_bebidas",
+        "trayectoria": 3,
+        "y2018": 0,
+        "y2020": 2.67,
+        "y2025": 9.33,
+        "y2030": 16.0,
+        "y2035": 18.0,
+        "y2040": 20,
+        "y2045": 22,
+        "y2050": 24,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_energ_reduc_consumo",
+        "tipo": "alimentos_bebidas",
+        "trayectoria": 4,
+        "y2018": 0,
+        "y2020": 4,
+        "y2025": 14,
+        "y2030": 24,
+        "y2035": 34,
+        "y2040": 44,
+        "y2045": 54.0,
+        "y2050": 64,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_energ_reduc_consumo",
+        "tipo": "textil",
+        "trayectoria": 1,
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 0,
+        "y2030": 0,
+        "y2035": 0,
+        "y2040": 0,
+        "y2045": 0,
+        "y2050": 0,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_energ_reduc_consumo",
+        "tipo": "textil",
+        "trayectoria": 2,
+        "y2018": 0,
+        "y2020": 0.94,
+        "y2025": 3.28,
+        "y2030": 5.63,
+        "y2035": 7.97,
+        "y2040": 10.31,
+        "y2045": 12.66,
+        "y2050": 15.0,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_energ_reduc_consumo",
+        "tipo": "textil",
+        "trayectoria": 3,
+        "y2018": 0,
+        "y2020": 2.5,
+        "y2025": 8.75,
+        "y2030": 15.0,
+        "y2035": 21.25,
+        "y2040": 27.5,
+        "y2045": 33.75,
+        "y2050": 40,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_energ_reduc_consumo",
+        "tipo": "textil",
+        "trayectoria": 4,
+        "y2018": 0,
+        "y2020": 3.75,
+        "y2025": 13.13,
+        "y2030": 22.5,
+        "y2035": 31.88,
+        "y2040": 41.25,
+        "y2045": 50.63,
+        "y2050": 60,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_energ_reduc_consumo",
+        "tipo": "otros",
+        "trayectoria": 1,
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 0,
+        "y2030": 0,
+        "y2035": 0,
+        "y2040": 0,
+        "y2045": 0,
+        "y2050": 0,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_energ_reduc_consumo",
+        "tipo": "otros",
+        "trayectoria": 2,
+        "y2018": 0,
+        "y2020": 0.94,
+        "y2025": 3.28,
+        "y2030": 5.63,
+        "y2035": 7.97,
+        "y2040": 10.31,
+        "y2045": 12.66,
+        "y2050": 15.0,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_energ_reduc_consumo",
+        "tipo": "otros",
+        "trayectoria": 3,
+        "y2018": 0,
+        "y2020": 2.5,
+        "y2025": 8.75,
+        "y2030": 15.0,
+        "y2035": 21.25,
+        "y2040": 27.5,
+        "y2045": 33.75,
+        "y2050": 40.0,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_energ_reduc_consumo",
+        "tipo": "otros",
+        "trayectoria": 4,
+        "y2018": 0,
+        "y2020": 3.75,
+        "y2025": 13.13,
+        "y2030": 22.5,
+        "y2035": 31.88,
+        "y2040": 41.25,
+        "y2045": 50.63,
+        "y2050": 60,
+        "unidad": "%"
+      }
+    ],
+    "ef_crecim_autogener_cogener": [
+      {
+        "topic": "ef_crecim_autogener_cogener",
+        "tipo": "cemento",
+        "trayectoria": 1,
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 0,
+        "y2030": 0,
+        "y2035": 0,
+        "y2040": 0,
+        "y2045": 0,
+        "y2050": 0,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_crecim_autogener_cogener",
+        "tipo": "cemento",
+        "trayectoria": 2,
+        "y2018": 0,
+        "y2020": 0.0,
+        "y2025": 2.43,
+        "y2030": 4.86,
+        "y2035": 7.29,
+        "y2040": 9.72,
+        "y2045": 12.16,
+        "y2050": 14.59,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_crecim_autogener_cogener",
+        "tipo": "cemento",
+        "trayectoria": 3,
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 7.29,
+        "y2030": 14.59,
+        "y2035": 15.41,
+        "y2040": 16.65,
+        "y2045": 17.58,
+        "y2050": 17.89,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_crecim_autogener_cogener",
+        "tipo": "cemento",
+        "trayectoria": 4,
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 8.95,
+        "y2030": 17.89,
+        "y2035": 17.89,
+        "y2040": 17.89,
+        "y2045": 17.89,
+        "y2050": 17.89,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_crecim_autogener_cogener",
+        "tipo": "hierro_no_ferrosos",
+        "trayectoria": 1,
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 0,
+        "y2030": 0,
+        "y2035": 0,
+        "y2040": 0,
+        "y2045": 0,
+        "y2050": 0,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_crecim_autogener_cogener",
+        "tipo": "hierro_no_ferrosos",
+        "trayectoria": 2,
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 1.93,
+        "y2030": 3.86,
+        "y2035": 5.79,
+        "y2040": 7.72,
+        "y2045": 9.66,
+        "y2050": 11.59,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_crecim_autogener_cogener",
+        "tipo": "hierro_no_ferrosos",
+        "trayectoria": 3,
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 5.79,
+        "y2030": 11.59,
+        "y2035": 12.56,
+        "y2040": 14.02,
+        "y2045": 15.12,
+        "y2050": 15.48,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_crecim_autogener_cogener",
+        "tipo": "hierro_no_ferrosos",
+        "trayectoria": 4,
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 7.74,
+        "y2030": 15.48,
+        "y2035": 15.48,
+        "y2040": 15.48,
+        "y2045": 15.48,
+        "y2050": 15.48,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_crecim_autogener_cogener",
+        "tipo": "papel",
+        "trayectoria": 1,
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 0,
+        "y2030": 0,
+        "y2035": 0,
+        "y2040": 0,
+        "y2045": 0,
+        "y2050": 0,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_crecim_autogener_cogener",
+        "tipo": "papel",
+        "trayectoria": 2,
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 2.24,
+        "y2030": 4.47,
+        "y2035": 6.71,
+        "y2040": 8.94,
+        "y2045": 11.18,
+        "y2050": 13.41,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_crecim_autogener_cogener",
+        "tipo": "papel",
+        "trayectoria": 3,
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 6.71,
+        "y2030": 13.41,
+        "y2035": 14.38,
+        "y2040": 15.83,
+        "y2045": 16.92,
+        "y2050": 17.28,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_crecim_autogener_cogener",
+        "tipo": "papel",
+        "trayectoria": 4,
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 8.64,
+        "y2030": 17.28,
+        "y2035": 17.28,
+        "y2040": 17.28,
+        "y2045": 17.28,
+        "y2050": 17.28,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_crecim_autogener_cogener",
+        "tipo": "quimicos",
+        "trayectoria": 1,
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 0,
+        "y2030": 0,
+        "y2035": 0,
+        "y2040": 0,
+        "y2045": 0,
+        "y2050": 0,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_crecim_autogener_cogener",
+        "tipo": "quimicos",
+        "trayectoria": 2,
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 1.68,
+        "y2030": 3.36,
+        "y2035": 5.04,
+        "y2040": 6.72,
+        "y2045": 8.39,
+        "y2050": 10.07,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_crecim_autogener_cogener",
+        "tipo": "quimicos",
+        "trayectoria": 3,
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 5.04,
+        "y2030": 10.07,
+        "y2035": 10.84,
+        "y2040": 11.99,
+        "y2045": 12.85,
+        "y2050": 13.14,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_crecim_autogener_cogener",
+        "tipo": "quimicos",
+        "trayectoria": 4,
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 6.57,
+        "y2030": 13.14,
+        "y2035": 13.14,
+        "y2040": 13.14,
+        "y2045": 13.14,
+        "y2050": 13.14,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_crecim_autogener_cogener",
+        "tipo": "alimentos_bebidas",
+        "trayectoria": 1,
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 0,
+        "y2030": 0,
+        "y2035": 0,
+        "y2040": 0,
+        "y2045": 0,
+        "y2050": 0,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_crecim_autogener_cogener",
+        "tipo": "alimentos_bebidas",
+        "trayectoria": 2,
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 2.3,
+        "y2030": 4.61,
+        "y2035": 6.91,
+        "y2040": 9.21,
+        "y2045": 11.51,
+        "y2050": 13.82,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_crecim_autogener_cogener",
+        "tipo": "alimentos_bebidas",
+        "trayectoria": 3,
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 6.91,
+        "y2030": 13.82,
+        "y2035": 14.58,
+        "y2040": 15.73,
+        "y2045": 16.59,
+        "y2050": 16.87,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_crecim_autogener_cogener",
+        "tipo": "alimentos_bebidas",
+        "trayectoria": 4,
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 8.44,
+        "y2030": 16.87,
+        "y2035": 16.87,
+        "y2040": 16.87,
+        "y2045": 16.87,
+        "y2050": 16.87,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_crecim_autogener_cogener",
+        "tipo": "textil",
+        "trayectoria": 1,
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 0,
+        "y2030": 0,
+        "y2035": 0,
+        "y2040": 0,
+        "y2045": 0,
+        "y2050": 0,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_crecim_autogener_cogener",
+        "tipo": "textil",
+        "trayectoria": 2,
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 1.92,
+        "y2030": 3.85,
+        "y2035": 5.77,
+        "y2040": 7.7,
+        "y2045": 9.62,
+        "y2050": 11.54,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_crecim_autogener_cogener",
+        "tipo": "textil",
+        "trayectoria": 3,
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 5.77,
+        "y2030": 11.54,
+        "y2035": 12.5,
+        "y2040": 13.94,
+        "y2045": 15.02,
+        "y2050": 15.38,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_crecim_autogener_cogener",
+        "tipo": "textil",
+        "trayectoria": 4,
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 7.69,
+        "y2030": 15.38,
+        "y2035": 15.38,
+        "y2040": 15.38,
+        "y2045": 15.38,
+        "y2050": 15.38,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_crecim_autogener_cogener",
+        "tipo": "otros",
+        "trayectoria": 1,
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 0,
+        "y2030": 0,
+        "y2035": 0,
+        "y2040": 0,
+        "y2045": 0,
+        "y2050": 0,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_crecim_autogener_cogener",
+        "tipo": "otros",
+        "trayectoria": 2,
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 0.15,
+        "y2030": 0.3,
+        "y2035": 0.45,
+        "y2040": 0.6,
+        "y2045": 0.75,
+        "y2050": 0.9,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_crecim_autogener_cogener",
+        "tipo": "otros",
+        "trayectoria": 3,
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 0.45,
+        "y2030": 0.9,
+        "y2035": 1.09,
+        "y2040": 1.38,
+        "y2045": 1.59,
+        "y2050": 1.66,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_crecim_autogener_cogener",
+        "tipo": "otros",
+        "trayectoria": 4,
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 0.83,
+        "y2030": 1.66,
+        "y2035": 1.66,
+        "y2040": 1.66,
+        "y2045": 1.66,
+        "y2050": 1.66,
+        "unidad": "%"
+      }
+    ],
+    "ef_energ_reduc_consumo_ladrilleras": [
+      {
+        "topic": "ef_energ_reduc_consumo_ladrilleras",
+        "trayectoria": 1,
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 0,
+        "y2030": 0,
+        "y2035": 0,
+        "y2040": 0,
+        "y2045": 0,
+        "y2050": 0,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_energ_reduc_consumo_ladrilleras",
+        "trayectoria": 2,
+        "y2018": 0,
+        "y2020": 0.44,
+        "y2025": 1.53,
+        "y2030": 2.63,
+        "y2035": 3.72,
+        "y2040": 4.81,
+        "y2045": 5.91,
+        "y2050": 7,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_energ_reduc_consumo_ladrilleras",
+        "trayectoria": 3,
+        "y2018": 0,
+        "y2020": 1.51,
+        "y2025": 5.28,
+        "y2030": 9.05,
+        "y2035": 14.29,
+        "y2040": 19.53,
+        "y2045": 14.76,
+        "y2050": 30,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_energ_reduc_consumo_ladrilleras",
+        "trayectoria": 4,
+        "y2018": 0,
+        "y2020": 5,
+        "y2025": 17.5,
+        "y2030": 30,
+        "y2035": 42.5,
+        "y2040": 55,
+        "y2045": 67.5,
+        "y2050": 80,
+        "unidad": "%"
+      }
+    ],
+    "ef_crecim_autogener_cogener_ladrilleras": [
+      {
+        "topic": "ef_crecim_autogener_cogener_ladrilleras",
+        "trayectoria": 1,
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 0,
+        "y2030": 0,
+        "y2035": 0,
+        "y2040": 0,
+        "y2045": 0,
+        "y2050": 0,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_crecim_autogener_cogener_ladrilleras",
+        "trayectoria": 2,
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 2.43,
+        "y2030": 4.86,
+        "y2035": 7.29,
+        "y2040": 9.72,
+        "y2045": 12.16,
+        "y2050": 14.59,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_crecim_autogener_cogener_ladrilleras",
+        "trayectoria": 3,
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 7.29,
+        "y2030": 14.59,
+        "y2035": 15.41,
+        "y2040": 16.65,
+        "y2045": 17.58,
+        "y2050": 17.89,
+        "unidad": "%"
+      },
+      {
+        "topic": "ef_crecim_autogener_cogener_ladrilleras",
+        "trayectoria": 4,
+        "y2018": 0,
+        "y2020": 0,
+        "y2025": 8.95,
+        "y2030": 17.89,
+        "y2035": 17.89,
+        "y2040": 17.89,
+        "y2045": 17.89,
+        "y2050": 17.89,
+        "unidad": "%"
+      }
+    ],
+    "sustitucion_sao": [
+      {
+        "topic": "sustitucion_sao",
+        "tipo": "refrigeracion_aire_acondic",
+        "trayectoria": 1,
+        "valor": 0,
+        "unidad": "%"
+      },
+      {
+        "topic": "sustitucion_sao",
+        "tipo": "refrigeracion_aire_acondic",
+        "trayectoria": 2,
+        "valor": 25,
+        "unidad": "%"
+      },
+      {
+        "topic": "sustitucion_sao",
+        "tipo": "refrigeracion_aire_acondic",
+        "trayectoria": 3,
+        "valor": 50,
+        "unidad": "%"
+      },
+      {
+        "topic": "sustitucion_sao",
+        "tipo": "refrigeracion_aire_acondic",
+        "trayectoria": 4,
+        "valor": 100,
+        "unidad": "%"
+      },
+      {
+        "topic": "sustitucion_sao",
+        "tipo": "agentes_espumantes",
+        "trayectoria": 1,
+        "valor": 0,
+        "unidad": "%"
+      },
+      {
+        "topic": "sustitucion_sao",
+        "tipo": "agentes_espumantes",
+        "trayectoria": 2,
+        "valor": 25,
+        "unidad": "%"
+      },
+      {
+        "topic": "sustitucion_sao",
+        "tipo": "agentes_espumantes",
+        "trayectoria": 3,
+        "valor": 50,
+        "unidad": "%"
+      },
+      {
+        "topic": "sustitucion_sao",
+        "tipo": "agentes_espumantes",
+        "trayectoria": 4,
+        "valor": 100,
+        "unidad": "%"
+      },
+      {
+        "topic": "sustitucion_sao",
+        "tipo": "proteccion_contra_incendios",
+        "trayectoria": 1,
+        "valor": 0,
+        "unidad": "%"
+      },
+      {
+        "topic": "sustitucion_sao",
+        "tipo": "proteccion_contra_incendios",
+        "trayectoria": 2,
+        "valor": 25,
+        "unidad": "%"
+      },
+      {
+        "topic": "sustitucion_sao",
+        "tipo": "proteccion_contra_incendios",
+        "trayectoria": 3,
+        "valor": 50,
+        "unidad": "%"
+      },
+      {
+        "topic": "sustitucion_sao",
+        "tipo": "proteccion_contra_incendios",
+        "trayectoria": 4,
+        "valor": 100,
+        "unidad": "%"
+      },
+      {
+        "topic": "sustitucion_sao",
+        "tipo": "aerosoles",
+        "trayectoria": 1,
+        "valor": 0,
+        "unidad": "%"
+      },
+      {
+        "topic": "sustitucion_sao",
+        "tipo": "aerosoles",
+        "trayectoria": 2,
+        "valor": 25,
+        "unidad": "%"
+      },
+      {
+        "topic": "sustitucion_sao",
+        "tipo": "aerosoles",
+        "trayectoria": 3,
+        "valor": 50,
+        "unidad": "%"
+      },
+      {
+        "topic": "sustitucion_sao",
+        "tipo": "aerosoles",
+        "trayectoria": 4,
+        "valor": 100,
+        "unidad": "%"
+      },
+      {
+        "topic": "sustitucion_sao",
+        "tipo": "solventes",
+        "trayectoria": 1,
+        "valor": 0,
+        "unidad": "%"
+      },
+      {
+        "topic": "sustitucion_sao",
+        "tipo": "solventes",
+        "trayectoria": 2,
+        "valor": 25,
+        "unidad": "%"
+      },
+      {
+        "topic": "sustitucion_sao",
+        "tipo": "solventes",
+        "trayectoria": 3,
+        "valor": 50,
+        "unidad": "%"
+      },
+      {
+        "topic": "sustitucion_sao",
+        "tipo": "solventes",
+        "trayectoria": 4,
+        "valor": 100,
+        "unidad": "%"
+      },
+      {
+        "topic": "sustitucion_sao",
+        "tipo": "otros",
+        "trayectoria": 1,
+        "valor": 0,
+        "unidad": "%"
+      },
+      {
+        "topic": "sustitucion_sao",
+        "tipo": "otros",
+        "trayectoria": 2,
+        "valor": 25,
+        "unidad": "%"
+      },
+      {
+        "topic": "sustitucion_sao",
+        "tipo": "otros",
+        "trayectoria": 3,
+        "valor": 50,
+        "unidad": "%"
+      },
+      {
+        "topic": "sustitucion_sao",
+        "tipo": "otros",
+        "trayectoria": 4,
+        "valor": 100,
+        "unidad": "%"
+      }
+    ],
+    "proc_productivos_sostenibles": [
+      {
+        "topic": "proc_productivos_sostenibles",
+        "tipo": "produccion_cemento",
+        "trayectoria": 1,
+        "valor": 0,
+        "unidad": "%"
+      },
+      {
+        "topic": "proc_productivos_sostenibles",
+        "tipo": "produccion_cemento",
+        "trayectoria": 2,
+        "valor": 3,
+        "unidad": "%"
+      },
+      {
+        "topic": "proc_productivos_sostenibles",
+        "tipo": "produccion_cemento",
+        "trayectoria": 3,
+        "valor": 6,
+        "unidad": "%"
+      },
+      {
+        "topic": "proc_productivos_sostenibles",
+        "tipo": "produccion_cemento",
+        "trayectoria": 4,
+        "valor": 10,
+        "unidad": "%"
+      },
+      {
+        "topic": "proc_productivos_sostenibles",
+        "tipo": "produccion_cal",
+        "trayectoria": 1,
+        "valor": 0,
+        "unidad": "%"
+      },
+      {
+        "topic": "proc_productivos_sostenibles",
+        "tipo": "produccion_cal",
+        "trayectoria": 2,
+        "valor": 3,
+        "unidad": "%"
+      },
+      {
+        "topic": "proc_productivos_sostenibles",
+        "tipo": "produccion_cal",
+        "trayectoria": 3,
+        "valor": 6,
+        "unidad": "%"
+      },
+      {
+        "topic": "proc_productivos_sostenibles",
+        "tipo": "produccion_cal",
+        "trayectoria": 4,
+        "valor": 10,
+        "unidad": "%"
+      },
+      {
+        "topic": "proc_productivos_sostenibles",
+        "tipo": "produccion_vidrio",
+        "trayectoria": 1,
+        "valor": 0,
+        "unidad": "%"
+      },
+      {
+        "topic": "proc_productivos_sostenibles",
+        "tipo": "produccion_vidrio",
+        "trayectoria": 2,
+        "valor": 3,
+        "unidad": "%"
+      },
+      {
+        "topic": "proc_productivos_sostenibles",
+        "tipo": "produccion_vidrio",
+        "trayectoria": 3,
+        "valor": 6,
+        "unidad": "%"
+      },
+      {
+        "topic": "proc_productivos_sostenibles",
+        "tipo": "produccion_vidrio",
+        "trayectoria": 4,
+        "valor": 10,
+        "unidad": "%"
+      },
+      {
+        "topic": "proc_productivos_sostenibles",
+        "tipo": "produccion_amoniaco",
+        "trayectoria": 1,
+        "valor": 0,
+        "unidad": "%"
+      },
+      {
+        "topic": "proc_productivos_sostenibles",
+        "tipo": "produccion_amoniaco",
+        "trayectoria": 2,
+        "valor": 3,
+        "unidad": "%"
+      },
+      {
+        "topic": "proc_productivos_sostenibles",
+        "tipo": "produccion_amoniaco",
+        "trayectoria": 3,
+        "valor": 6,
+        "unidad": "%"
+      },
+      {
+        "topic": "proc_productivos_sostenibles",
+        "tipo": "produccion_amoniaco",
+        "trayectoria": 4,
+        "valor": 10,
+        "unidad": "%"
+      },
+      {
+        "topic": "proc_productivos_sostenibles",
+        "tipo": "produccion_acido_nitrico",
+        "trayectoria": 1,
+        "valor": 0,
+        "unidad": "%"
+      },
+      {
+        "topic": "proc_productivos_sostenibles",
+        "tipo": "produccion_acido_nitrico",
+        "trayectoria": 2,
+        "valor": 3,
+        "unidad": "%"
+      },
+      {
+        "topic": "proc_productivos_sostenibles",
+        "tipo": "produccion_acido_nitrico",
+        "trayectoria": 3,
+        "valor": 6,
+        "unidad": "%"
+      },
+      {
+        "topic": "proc_productivos_sostenibles",
+        "tipo": "produccion_acido_nitrico",
+        "trayectoria": 4,
+        "valor": 10,
+        "unidad": "%"
+      },
+      {
+        "topic": "proc_productivos_sostenibles",
+        "tipo": "produccion_hierro_acero",
+        "trayectoria": 1,
+        "valor": 0,
+        "unidad": "%"
+      },
+      {
+        "topic": "proc_productivos_sostenibles",
+        "tipo": "produccion_hierro_acero",
+        "trayectoria": 2,
+        "valor": 3,
+        "unidad": "%"
+      },
+      {
+        "topic": "proc_productivos_sostenibles",
+        "tipo": "produccion_hierro_acero",
+        "trayectoria": 3,
+        "valor": 6,
+        "unidad": "%"
+      },
+      {
+        "topic": "proc_productivos_sostenibles",
+        "tipo": "produccion_hierro_acero",
+        "trayectoria": 4,
+        "valor": 10,
+        "unidad": "%"
+      },
+      {
+        "topic": "proc_productivos_sostenibles",
+        "tipo": "produccion_ferroaleaciones",
+        "trayectoria": 1,
+        "valor": 0,
+        "unidad": "%"
+      },
+      {
+        "topic": "proc_productivos_sostenibles",
+        "tipo": "produccion_ferroaleaciones",
+        "trayectoria": 2,
+        "valor": 3,
+        "unidad": "%"
+      },
+      {
+        "topic": "proc_productivos_sostenibles",
+        "tipo": "produccion_ferroaleaciones",
+        "trayectoria": 3,
+        "valor": 6,
+        "unidad": "%"
+      },
+      {
+        "topic": "proc_productivos_sostenibles",
+        "tipo": "produccion_ferroaleaciones",
+        "trayectoria": 4,
+        "valor": 10,
+        "unidad": "%"
+      },
+      {
+        "topic": "proc_productivos_sostenibles",
+        "tipo": "produccion_plomo",
+        "trayectoria": 1,
+        "valor": 0,
+        "unidad": "%"
+      },
+      {
+        "topic": "proc_productivos_sostenibles",
+        "tipo": "produccion_plomo",
+        "trayectoria": 2,
+        "valor": 3,
+        "unidad": "%"
+      },
+      {
+        "topic": "proc_productivos_sostenibles",
+        "tipo": "produccion_plomo",
+        "trayectoria": 3,
+        "valor": 6,
+        "unidad": "%"
+      },
+      {
+        "topic": "proc_productivos_sostenibles",
+        "tipo": "produccion_plomo",
+        "trayectoria": 4,
+        "valor": 10,
+        "unidad": "%"
+      },
+      {
+        "topic": "proc_productivos_sostenibles",
+        "tipo": "produccion_pulpa_papel",
+        "trayectoria": 1,
+        "valor": 0,
+        "unidad": "%"
+      },
+      {
+        "topic": "proc_productivos_sostenibles",
+        "tipo": "produccion_pulpa_papel",
+        "trayectoria": 2,
+        "valor": 3,
+        "unidad": "%"
+      },
+      {
+        "topic": "proc_productivos_sostenibles",
+        "tipo": "produccion_pulpa_papel",
+        "trayectoria": 3,
+        "valor": 6,
+        "unidad": "%"
+      },
+      {
+        "topic": "proc_productivos_sostenibles",
+        "tipo": "produccion_pulpa_papel",
+        "trayectoria": 4,
+        "valor": 10,
+        "unidad": "%"
+      },
+      {
+        "topic": "proc_productivos_sostenibles",
+        "tipo": "produccion_alimentacion",
+        "trayectoria": 1,
+        "valor": 0,
+        "unidad": "%"
+      },
+      {
+        "topic": "proc_productivos_sostenibles",
+        "tipo": "produccion_alimentacion",
+        "trayectoria": 2,
+        "valor": 3,
+        "unidad": "%"
+      },
+      {
+        "topic": "proc_productivos_sostenibles",
+        "tipo": "produccion_alimentacion",
+        "trayectoria": 3,
+        "valor": 6,
+        "unidad": "%"
+      },
+      {
+        "topic": "proc_productivos_sostenibles",
+        "tipo": "produccion_alimentacion",
+        "trayectoria": 4,
+        "valor": 10,
+        "unidad": "%"
+      }
+    ]
+  }

@@ -1,0 +1,56 @@
+{
+    "uso_combustible_navegacion_intern": [
+      {
+        "topic": "uso_combustible_navegacion_intern",
+        "trayectoria": 1,
+        "y2018": 4.1,
+        "y2020": 4.2,
+        "y2025": 4.4,
+        "y2030": 4.5,
+        "y2035": 4.7,
+        "y2040": 4.8,
+        "y2045": 5.0,
+        "y2050": 5.1,
+        "unidad": "TWh"
+      },
+      {
+        "topic": "uso_combustible_navegacion_intern",
+        "trayectoria": 2,
+        "y2018": 4.0,
+        "y2020": 4.2,
+        "y2025": 4.3,
+        "y2030": 4.4,
+        "y2035": 4.5,
+        "y2040": 4.7,
+        "y2045": 4.8,
+        "y2050": 4.9,
+        "unidad": "TWh"
+      },
+      {
+        "topic": "uso_combustible_navegacion_intern",
+        "trayectoria": 3,
+        "y2018": 4.0,
+        "y2020": 4.0,
+        "y2025": 4.1,
+        "y2030": 4.1,
+        "y2035": 4.2,
+        "y2040": 4.2,
+        "y2045": 4.3,
+        "y2050": 4.3,
+        "unidad": "TWh"
+      },
+      {
+        "topic": "uso_combustible_navegacion_intern",
+        "trayectoria": 4,
+        "y2018": 4.0,
+        "y2020": 4.0,
+        "y2025": 4.0,
+        "y2030": 4.0,
+        "y2035": 4.0,
+        "y2040": 4.0,
+        "y2045": 3.9,
+        "y2050": 3.9,
+        "unidad": "TWh"
+      }
+    ]
+  }

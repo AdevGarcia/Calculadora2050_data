@@ -1,0 +1,423 @@
+{
+    "rellenos_sanitarios_capt_aprov": [
+      {
+        "topic": "rellenos_sanitarios_capt_aprov",
+        "tipo": "sin_captacion",
+        "y2018": 9,
+        "y2020": 9,
+        "y2025": 9,
+        "y2030": 9,
+        "y2035": 9,
+        "y2040": 9,
+        "y2045": 9,
+        "y2050": 9,
+        "unidad": "%"
+      },
+      {
+        "topic": "rellenos_sanitarios_capt_aprov",
+        "tipo": "quema_biogas",
+        "y2018": 77,
+        "y2020": 77,
+        "y2025": 77,
+        "y2030": 77,
+        "y2035": 77,
+        "y2040": 77,
+        "y2045": 77,
+        "y2050": 77,
+        "unidad": "%"
+      },
+      {
+        "topic": "rellenos_sanitarios_capt_aprov",
+        "tipo": "aprovechamiento",
+        "y2018": 14,
+        "y2020": 14,
+        "y2025": 14,
+        "y2030": 14,
+        "y2035": 14,
+        "y2040": 14,
+        "y2045": 14,
+        "y2050": 14,
+        "unidad": "%"
+      }
+    ],
+    "distribucion_residuos_zona_climatica": [
+      {
+        "topic": "distribucion_residuos_zona_climatica",
+        "tipo": "excesivamente_humedo",
+        "valor": 10,
+        "unidad": "%"
+      },
+      {
+        "topic": "distribucion_residuos_zona_climatica",
+        "tipo": "humedo",
+        "valor": 57,
+        "unidad": "%"
+      },
+      {
+        "topic": "distribucion_residuos_zona_climatica",
+        "tipo": "moderadamente_humedo",
+        "valor": 24,
+        "unidad": "%"
+      },
+      {
+        "topic": "distribucion_residuos_zona_climatica",
+        "tipo": "moderadamente_seco",
+        "valor": 9,
+        "unidad": "%"
+      }
+    ],
+    "caracterizacion_tipo_residuos": [
+      {
+        "topic": "caracterizacion_tipo_residuos",
+        "tipo": "materia_organica",
+        "y2018": 61,
+        "y2020": 62,
+        "y2025": 62,
+        "y2030": 62,
+        "y2035": 63,
+        "y2040": 63,
+        "y2045": 64,
+        "y2050": 64,
+        "unidad": "%"
+      },
+      {
+        "topic": "caracterizacion_tipo_residuos",
+        "tipo": "papel",
+        "y2018": 10,
+        "y2020": 10,
+        "y2025": 10,
+        "y2030": 10,
+        "y2035": 9,
+        "y2040": 9,
+        "y2045": 9,
+        "y2050": 9,
+        "unidad": "%"
+      },
+      {
+        "topic": "caracterizacion_tipo_residuos",
+        "tipo": "madera",
+        "y2018": 1,
+        "y2020": 1,
+        "y2025": 1,
+        "y2030": 1,
+        "y2035": 1,
+        "y2040": 2,
+        "y2045": 2,
+        "y2050": 2,
+        "unidad": "%"
+      },
+      {
+        "topic": "caracterizacion_tipo_residuos",
+        "tipo": "textil",
+        "y2018": 2,
+        "y2020": 2,
+        "y2025": 2,
+        "y2030": 3,
+        "y2035": 3,
+        "y2040": 4,
+        "y2045": 4,
+        "y2050": 5,
+        "unidad": "%"
+      },
+      {
+        "topic": "caracterizacion_tipo_residuos",
+        "tipo": "residuos_solidos",
+        "y2018": 26,
+        "y2020": 26,
+        "y2025": 25,
+        "y2030": 24,
+        "y2035": 23,
+        "y2040": 22,
+        "y2045": 21,
+        "y2050": 21,
+        "unidad": "%"
+      }
+    ],
+    "generacion_metano_tipologia_residuo": [
+      {
+        "topic": "generacion_metano_tipologia_residuo",
+        "tipo": "materia_organica",
+        "zona": "zona_1",
+        "valor": 42,
+        "unidad": "m3/t"
+      },
+      {
+        "topic": "generacion_metano_tipologia_residuo",
+        "tipo": "materia_organica",
+        "zona": "zona_2",
+        "valor": 42,
+        "unidad": "m3/t"
+      },
+      {
+        "topic": "generacion_metano_tipologia_residuo",
+        "tipo": "materia_organica",
+        "zona": "zona_3",
+        "valor": 42,
+        "unidad": "m3/t"
+      },
+      {
+        "topic": "generacion_metano_tipologia_residuo",
+        "tipo": "materia_organica",
+        "zona": "zona_4",
+        "valor": 42,
+        "unidad": "m3/t"
+      },
+      {
+        "topic": "generacion_metano_tipologia_residuo",
+        "tipo": "papel",
+        "zona": "zona_1",
+        "valor": 111,
+        "unidad": "m3/t"
+      },
+      {
+        "topic": "generacion_metano_tipologia_residuo",
+        "tipo": "papel",
+        "zona": "zona_2",
+        "valor": 111,
+        "unidad": "m3/t"
+      },
+      {
+        "topic": "generacion_metano_tipologia_residuo",
+        "tipo": "papel",
+        "zona": "zona_3",
+        "valor": 111,
+        "unidad": "m3/t"
+      },
+      {
+        "topic": "generacion_metano_tipologia_residuo",
+        "tipo": "papel",
+        "zona": "zona_4",
+        "valor": 111,
+        "unidad": "m3/t"
+      },
+      {
+        "topic": "generacion_metano_tipologia_residuo",
+        "tipo": "madera",
+        "zona": "zona_1",
+        "valor": 119,
+        "unidad": "m3/t"
+      },
+      {
+        "topic": "generacion_metano_tipologia_residuo",
+        "tipo": "madera",
+        "zona": "zona_2",
+        "valor": 119,
+        "unidad": "m3/t"
+      },
+      {
+        "topic": "generacion_metano_tipologia_residuo",
+        "tipo": "madera",
+        "zona": "zona_3",
+        "valor": 119,
+        "unidad": "m3/t"
+      },
+      {
+        "topic": "generacion_metano_tipologia_residuo",
+        "tipo": "madera",
+        "zona": "zona_4",
+        "valor": 119,
+        "unidad": "m3/t"
+      },
+      {
+        "topic": "generacion_metano_tipologia_residuo",
+        "tipo": "textil",
+        "zona": "zona_1",
+        "valor": 67,
+        "unidad": "m3/t"
+      },
+      {
+        "topic": "generacion_metano_tipologia_residuo",
+        "tipo": "textil",
+        "zona": "zona_2",
+        "valor": 67,
+        "unidad": "m3/t"
+      },
+      {
+        "topic": "generacion_metano_tipologia_residuo",
+        "tipo": "textil",
+        "zona": "zona_3",
+        "valor": 67,
+        "unidad": "m3/t"
+      },
+      {
+        "topic": "generacion_metano_tipologia_residuo",
+        "tipo": "textil",
+        "zona": "zona_4",
+        "valor": 67,
+        "unidad": "m3/t"
+      },
+      {
+        "topic": "generacion_metano_tipologia_residuo",
+        "tipo": "residuos_solidos",
+        "zona": "zona_1",
+        "valor": 0,
+        "unidad": "m3/t"
+      },
+      {
+        "topic": "generacion_metano_tipologia_residuo",
+        "tipo": "residuos_solidos",
+        "zona": "zona_2",
+        "valor": 0,
+        "unidad": "m3/t"
+      },
+      {
+        "topic": "generacion_metano_tipologia_residuo",
+        "tipo": "residuos_solidos",
+        "zona": "zona_3",
+        "valor": 0,
+        "unidad": "m3/t"
+      },
+      {
+        "topic": "generacion_metano_tipologia_residuo",
+        "tipo": "residuos_solidos",
+        "zona": "zona_4",
+        "valor": 0,
+        "unidad": "m3/t"
+      }
+    ],
+    "gen_energ_rellenos_sanitarios": [
+      {
+        "topic": "gen_energ_rellenos_sanitarios",
+        "tipo": "potencial_electrico",
+        "valor": 4.85,
+        "unidad": "kWh/m3"
+      },
+      {
+        "topic": "gen_energ_rellenos_sanitarios",
+        "tipo": "eficiencia_motor_generador",
+        "valor": 42,
+        "unidad": "%"
+      },
+      {
+        "topic": "gen_energ_rellenos_sanitarios",
+        "tipo": "metano_biogas",
+        "valor": 50,
+        "unidad": "%"
+      }
+    ],
+    "generacion_energ_incineracion": [
+      {
+        "topic": "generacion_energ_incineracion",
+        "tipo": "capacidad_generacion",
+        "valor": 750,
+        "unidad": "kWh/t"
+      },
+      {
+        "topic": "generacion_energ_incineracion",
+        "tipo": "potencial_electrico",
+        "valor": 5,
+        "unidad": "%"
+      },
+      {
+        "topic": "generacion_energ_incineracion",
+        "tipo": "eficiencia_motor_generador",
+        "valor": 42,
+        "unidad": "%"
+      }
+    ],
+    "consumo_energ_medio_tratamiento": [
+      {
+        "topic": "consumo_energ_medio_tratamiento",
+        "tipo": "relleno_sanitario_controlado",
+        "valor": 0,
+        "unidad": "kWh/t"
+      },
+      {
+        "topic": "consumo_energ_medio_tratamiento",
+        "tipo": "celda_contingencia",
+        "valor": 0,
+        "unidad": "kWh/t"
+      },
+      {
+        "topic": "consumo_energ_medio_tratamiento",
+        "tipo": "planta_tratamiento",
+        "valor": 0,
+        "unidad": "kWh/t"
+      },
+      {
+        "topic": "consumo_energ_medio_tratamiento",
+        "tipo": "tratamiento_mecanico_biologico",
+        "valor": 0,
+        "unidad": "kWh/t"
+      },
+      {
+        "topic": "consumo_energ_medio_tratamiento",
+        "tipo": "combustible_derivado_residuos",
+        "valor": 0,
+        "unidad": "kWh/t"
+      },
+      {
+        "topic": "consumo_energ_medio_tratamiento",
+        "tipo": "incineracion",
+        "valor": 0,
+        "unidad": "kWh/t"
+      },
+      {
+        "topic": "consumo_energ_medio_tratamiento",
+        "tipo": "reciclado",
+        "valor": 0,
+        "unidad": "kWh/t"
+      }
+    ],
+    "estimacion_emisiones_incineracion_co2": [
+      {
+        "topic": "estimacion_emisiones_incineracion_co2",
+        "tipo": "materia_organica",
+        "materia_seca": 40,
+        "carbon_total": 38,
+        "frac_carbon_fosil": 0,
+        "fe": 0,
+        "unidad": ""
+      },
+      {
+        "topic": "estimacion_emisiones_incineracion_co2",
+        "tipo": "papel",
+        "materia_seca": 90,
+        "carbon_total": 46,
+        "frac_carbon_fosil": 1,
+        "fe": 0.02,
+        "unidad": ""
+      },
+      {
+        "topic": "estimacion_emisiones_incineracion_co2",
+        "tipo": "madera",
+        "materia_seca": 85,
+        "carbon_total": 50,
+        "frac_carbon_fosil": 0,
+        "fe": 0,
+        "unidad": ""
+      },
+      {
+        "topic": "estimacion_emisiones_incineracion_co2",
+        "tipo": "textil",
+        "materia_seca": 80,
+        "carbon_total": 50,
+        "frac_carbon_fosil": 20,
+        "fe": 0.29,
+        "unidad": ""
+      },
+      {
+        "topic": "estimacion_emisiones_incineracion_co2",
+        "tipo": "residuos_solidos",
+        "materia_seca": 100,
+        "carbon_total": 39,
+        "frac_carbon_fosil": 100,
+        "fe": 1.43,
+        "unidad": ""
+      }
+    ],
+    "estimacion_emisiones_incineracion": [
+      {
+        "topic": "estimacion_emisiones_incineracion",
+        "tipo": "CH4",
+        "valor": 0.0000007,
+        "unidad": "kg/Gg"
+      },
+      {
+        "topic": "estimacion_emisiones_incineracion",
+        "tipo": "N2O",
+        "valor": 0.000000047,
+        "unidad": "g/t"
+      }
+    ]
+  }

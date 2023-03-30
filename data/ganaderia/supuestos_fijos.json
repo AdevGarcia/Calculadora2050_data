@@ -1,0 +1,190 @@
+{
+    "uso_actual_tierra": [
+      {
+        "topic": "uso_actual_tierra",
+        "tipo": "Agricultura",
+        "uso_potencial": 22,
+        "uso_actual": 5.3,
+        "porcent_uso": 7.7,
+        "unidad": "Mha"
+      },
+      {
+        "topic": "uso_actual_tierra",
+        "tipo": "Ganadería",
+        "uso_potencial": 15,
+        "uso_actual": 34,
+        "porcent_uso": 49.5,
+        "unidad": "Mha"
+      },
+      {
+        "topic": "uso_actual_tierra",
+        "tipo": "Bosques",
+        "uso_potencial": 48,
+        "uso_actual": 0.4,
+        "porcent_uso": 0.6,
+        "unidad": "Mha"
+      },
+      {
+        "topic": "uso_actual_tierra",
+        "tipo": "Otros",
+        "uso_potencial": 29,
+        "uso_actual": 29,
+        "porcent_uso": 42.2,
+        "unidad": "Mha"
+      }
+    ],
+    "hato_ganadero": [
+      {
+        "topic": "hato_ganadero",
+        "y2018": 23169365,
+        "y2020": 27249511,
+        "y2025": 29289584,
+        "y2030": 31329657,
+        "y2035": 33369730,
+        "y2040": 35409803,
+        "y2045": 37449876,
+        "y2050": 39489949,
+        "unidad": "cabezas_ganado"
+      }
+    ],
+    "factor_emision_ch4": [
+      {
+        "topic": "factor_emision_ch4",
+        "tipo": "Hembras",
+        "fe": 1.0647,
+        "hato": 56,
+        "unidad": "tCO2e/CG"
+      },
+      {
+        "topic": "factor_emision_ch4",
+        "tipo": "Machos",
+        "fe": 0.6993,
+        "hato": 44,
+        "unidad": "tCO2e/CG"
+      }
+    ],
+    "area_implementacion": [
+      {
+        "topic": "area_implementacion",
+        "tipo": "sistemas_silvopastoriles_intensivos",
+        "valor": 40000,
+        "unidad": "ha"
+      },
+      {
+        "topic": "area_implementacion",
+        "tipo": "rehabilitacion_pasturas",
+        "valor": 1995,
+        "unidad": "ha"
+      },
+      {
+        "topic": "area_implementacion",
+        "tipo": "pastoreo_racional",
+        "valor": 12000,
+        "unidad": "ha"
+      }
+    ],
+    "factor_produccion_estiercol": [
+      {
+        "topic": "factor_produccion_estiercol",
+        "produccion": 3,
+        "fe": 0.5859,
+        "unidad": "tCO2e/CG"
+      }
+    ],
+    "potencial_energ_estiercol": [
+      {
+        "topic": "potencial_energ_estiercol",
+        "tipo": "ganado_leche",
+        "valor": 3.255384e-09,
+        "unidad": "TWh/Kg"
+      },
+      {
+        "topic": "potencial_energ_estiercol",
+        "tipo": "ganado_carne",
+        "valor": 4.3966867e-09,
+        "unidad": "TWh/Kg"
+      }
+    ],
+    "linea_base_emisiones": [
+      {
+        "topic": "linea_base_emisiones",
+        "tipo": "N2O",
+        "y2018": 14306679,
+        "y2020": 15795730,
+        "y2025": 17439762,
+        "y2030": 19254906,
+        "y2035": 21258972,
+        "y2040": 23471623,
+        "y2045": 25914569,
+        "y2050": 28611778,
+        "unidad": "tCO2/año"
+      },
+      {
+        "topic": "linea_base_emisiones",
+        "tipo": "CH4",
+        "y2018": 680036,
+        "y2020": 750815,
+        "y2025": 828961,
+        "y2030": 915240,
+        "y2035": 1010498,
+        "y2040": 1115672,
+        "y2045": 1231792,
+        "y2050": 1359998,
+        "unidad": "tCO2/año"
+      }
+    ],
+    "potencial_reduccion_emisiones": [
+      {
+        "topic": "potencial_reduccion_emisiones",
+        "tipo": "sistemas_silvopastoriles_intensivos",
+        "y2018": 9.6,
+        "y2020": 10,
+        "y2025": 10.3,
+        "y2030": 10.1,
+        "y2035": 9.1,
+        "y2040": 8.5,
+        "y2045": 7.7,
+        "y2050": 7,
+        "unidad": "tCO2/año"
+      },
+      {
+        "topic": "potencial_reduccion_emisiones",
+        "tipo": "rehabilitacion_pasturas",
+        "y2018": 1.3,
+        "y2020": 2.2,
+        "y2025": 3.0,
+        "y2030": 2.9,
+        "y2035": 2.9,
+        "y2040": 2.8,
+        "y2045": 2.7,
+        "y2050": 2.6,
+        "unidad": "tCO2/año"
+      },
+      {
+        "topic": "potencial_reduccion_emisiones",
+        "tipo": "suplementacion_dieta",
+        "y2018": 0.1,
+        "y2020": 0.1,
+        "y2025": 0.1,
+        "y2030": 0.1,
+        "y2035": 0.1,
+        "y2040": 0.1,
+        "y2045": 0.1,
+        "y2050": 0.1,
+        "unidad": "tCO2/año"
+      },
+      {
+        "topic": "potencial_reduccion_emisiones",
+        "tipo": "pastoreo_racional",
+        "y2018": 1.86,
+        "y2020": 9.1,
+        "y2025": 13.1,
+        "y2030": 15,
+        "y2035": 15.4,
+        "y2040": 13.7,
+        "y2045": 10.8,
+        "y2050": 8.4,
+        "unidad": "tCO2/año"
+      }
+    ]
+  }
